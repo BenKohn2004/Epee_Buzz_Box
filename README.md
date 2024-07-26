@@ -5,3 +5,5 @@ Using the [Onshape Model](https://cad.onshape.com/documents/caa25bbd361f540a6c95
 The advantage of this setup, other than being cheaper, over the [Favero version](https://www.absolutefencinggear.com/favero-training-buzz-box-epee.html) is that the buzzer only stays on during the hit, as opposed to a set time duration. So if you are training on multiple hits in quick succession, you can hear the individual hits as opposed to one buzz tone.
 
 I also prefer using your bodycord that way the training more closely resembles an actual bout.
+
+![Epee Buzz Box](Buzz Box Inside.jpg)
