@@ -6,4 +6,4 @@ The advantage of this setup, other than being cheaper, over the [Favero version]
 
 I also prefer using your bodycord that way the training more closely resembles an actual bout.
 
-!(Buzz Box Inside.jpg)
+![Buzz Box Inside.jpg](Buzz Box Inside.jpg)
